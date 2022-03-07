@@ -47,7 +47,7 @@ export default function LearnMore() {
         <h1 className="mt-4 text-2xl font-black leading-8 tracking-tight 2xl:text-5xl">
           Questions or feedback?
         </h1>
-        <p className="mx-auto mt-4 text-2xl text-neutral-600 dark:text-neutral-300">
+        {/* <p className="mx-auto mt-4 text-2xl text-neutral-600 dark:text-neutral-300">
           <strong>{'Twitter: '}</strong>
           <a
             href="https://twitter.com/tangor_help"
@@ -57,11 +57,11 @@ export default function LearnMore() {
           >
             {`@tangor_help`}
           </a>
-        </p>
+        </p> */}
         <p className="mx-auto mt-2 mb-14 text-2xl text-neutral-600 dark:text-neutral-300">
           <strong>{'Email: '}</strong>
           <a
-            href="mailto:hello@tangor.today"
+            href="mailto:tangor.today@domainsbyproxy.com"
             target="_blank"
             rel="noopener noreferrer"
             className="mx-[1px] rounded bg-neutral-200/70 p-[1px] px-2 hover:bg-neutral-300/70 dark:bg-neutral-700/70 dark:hover:bg-neutral-600/70"
